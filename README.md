@@ -1,8 +1,8 @@
 # Overview
 
-**Introduction to Java**
+## Introduction to Java
 
-: Hello World example application in Java.
+- Hello World example application in Java.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
