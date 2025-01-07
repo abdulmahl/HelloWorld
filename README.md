@@ -10,15 +10,14 @@
 
 [Software Demo Video](http://youtube.link.goes.here)
 
-## Development Environment
+# Development Environment
 
 {Describe the tools that you used to develop the software}
 
 {Describe the programming language that you used}
 
-## Useful Websites
+# Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
