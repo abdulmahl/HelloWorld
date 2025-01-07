@@ -10,5 +10,5 @@ Hello World example application in Java.
 
 ## Useful Websites
 
-- chatgpt.com
-- youtube.com
+- [chatgpt.com](https://chatgpt.com/)
+- [youtube.com](https://www.youtube.com/)
