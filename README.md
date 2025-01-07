@@ -9,6 +9,7 @@
 ## Development Environment
 
 - Java
+- Visual Studio Code
 
 ## Useful Websites
 
