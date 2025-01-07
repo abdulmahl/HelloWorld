@@ -9,3 +9,6 @@ Hello World example application in Java.
 - Java
 
 ## Useful Websites
+
+- chatgpt.com
+- youtube.com
